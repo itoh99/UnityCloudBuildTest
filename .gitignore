@@ -1,0 +1,21 @@
+bin/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.pdb
+*.suo
+
+# private
+_private
+
+# Unity
+Build/
+Library/
+Temp/
+AssetBundles/
+obj/
+
+# Work
+
+Xcode
